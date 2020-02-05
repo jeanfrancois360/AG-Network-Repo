@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>student-student-take-course.html</Key><RequestId>7796E6E64A8A68AD</RequestId><HostId>dLsDF0TNnHt8w4CQ/pmlmgOg0LJNs0P5H1NJovTw0hW7MvoW3zRo4QENhEOiX5Jv7rXWLwmtZrk=</HostId></Error>
