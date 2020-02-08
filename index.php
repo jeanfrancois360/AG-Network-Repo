@@ -77,7 +77,7 @@ session_start();
       
                 <!-- Default inline 0-->
         <div class="custom-control custom-radio custom-control-inline">
-        <p style="font-size: 16px; font-weight: 500; margin-left: -25px; color: #111111 !important; margin-top:-10px !important;">I'm a :</p>
+        <p style="font-size: 16px; font-weight: 500; margin-left: -25px; color: #111111 !important; margin-top:-10px !important;">Login as :</p>
         </div>
 
         <!-- Default inline 1-->
