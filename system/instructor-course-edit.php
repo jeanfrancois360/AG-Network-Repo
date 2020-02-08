@@ -100,7 +100,7 @@
                                         <h4 class="card-title">Lessons</h4>
                                     </div>
                                     <div class="card-body">
-                                        <p><a href="instructor-lesson-add.php" class="btn btn-primary">Add Lesson <i class="material-icons">add</i></a></p>
+                                        <p><a href="instructor-add-course.php" class="btn btn-primary">Add Lesson <i class="material-icons">add</i></a></p>
                                         <div class="nestable" id="nestable-handles-primary">
                                             <ul class="nestable-list">
                                                 <li class="nestable-item nestable-item-handle" data-id="2">
@@ -112,12 +112,12 @@
                                                             </div>
                                                             <div class="media-body">
                                                                 <h5 class="card-title h6 mb-0">
-                                                                    <a href="instructor-lesson-add.php">The Economics of Agribusiness</a>
+                                                                    <a href="instructor-add-course.php">The Economics of Agribusiness</a>
                                                                 </h5>
                                                                 <small class="text-muted">updated 1 month ago</small>
                                                             </div>
                                                             <div class="media-right">
-                                                                <a href="instructor-lesson-add.php" class="btn btn-white btn-sm"><i class="material-icons">edit</i></a>
+                                                                <a href="instructor-add-course.php" class="btn btn-white btn-sm"><i class="material-icons">edit</i></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -131,12 +131,12 @@
                                                             </div>
                                                             <div class="media-body">
                                                                 <h4 class="card-title h6 mb-0">
-                                                                    <a href="instructor-lesson-add.php">Business Management for Agriculture</a>
+                                                                    <a href="instructor-add-course.php">Business Management for Agriculture</a>
                                                                 </h4>
                                                                 <small class="text-muted">updated 1 month ago</small>
                                                             </div>
                                                             <div class="media-right">
-                                                                <a href="instructor-lesson-add.php" class="btn btn-white btn-sm"><i class="material-icons">edit</i></a>
+                                                                <a href="instructor-add-course.php" class="btn btn-white btn-sm"><i class="material-icons">edit</i></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -150,12 +150,12 @@
                                                             </div>
                                                             <div class="media-body">
                                                                 <h4 class="card-title h6 mb-0">
-                                                                    <a href="instructor-lesson-add.php">Law and Agribusiness</a>
+                                                                    <a href="instructor-add-course.php">Law and Agribusiness</a>
                                                                 </h4>
                                                                 <small class="text-muted">updated 1 month ago</small>
                                                             </div>
                                                             <div class="media-right">
-                                                                <a href="instructor-lesson-add.php" class="btn btn-white btn-sm"><i class="material-icons">edit</i></a>
+                                                                <a href="instructor-add-course.php" class="btn btn-white btn-sm"><i class="material-icons">edit</i></a>
                                                             </div>
                                                         </div>
                                                     </div>

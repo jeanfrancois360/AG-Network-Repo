@@ -49,7 +49,7 @@
                             <div class="flex mb-2 mb-sm-0">
                                 <h1 class="h2">Manage Courses</h1> 
                             </div>
-                            <a href="instructor-lesson-add.php" class="btn btn-success"><i class="fa fa-plus mr-2"></i> Add course</a>
+                            <a href="instructor-add-course.php" class="btn btn-success"><i class="fa fa-plus mr-2"></i> Add course</a>
                         </div>
 
                         <div class="card card-body border-left-3 border-left-primary navbar-shadow mb-4">
