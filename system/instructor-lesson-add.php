@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 
 
-<!-- Mirrored from learnplus-bootstrap.frontendmatter.com/instructor-lesson-add.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Oct 2019 11:15:33 GMT -->
+<!-- AG-Network Learning Platform-->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
